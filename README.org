@@ -1,0 +1,2 @@
+* HTML5 Canvas
+  Learning HTML5 Canvas with my girlfriend :).
