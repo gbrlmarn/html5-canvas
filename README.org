@@ -1,2 +1,8 @@
 * HTML5 Canvas
   Learning HTML5 Canvas with my girlfriend :).
+
+** Chapters
+|-----------+-------------|
+| Chapter 2 | In progress |
+|-----------+-------------|
+
